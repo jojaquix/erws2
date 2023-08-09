@@ -11,5 +11,6 @@ Explore this commands
     rebar3 compile
     rebar3 tree
     rebar3 shell
+    rebar3 shell --sname erws21 --setcookie test
     
 
